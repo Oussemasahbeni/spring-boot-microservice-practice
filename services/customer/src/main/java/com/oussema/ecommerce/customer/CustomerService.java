@@ -1,6 +1,5 @@
 package com.oussema.ecommerce.customer;
 
-import ch.qos.logback.core.util.StringUtil;
 import com.oussema.ecommerce.exception.CustomerNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang.StringUtils;

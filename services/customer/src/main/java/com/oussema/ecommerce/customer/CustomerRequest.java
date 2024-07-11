@@ -2,7 +2,6 @@ package com.oussema.ecommerce.customer;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
-import org.springframework.lang.NonNull;
 
 public record CustomerRequest(
 

@@ -5,5 +5,3 @@ spring:
    name: product-service
 
 
-server:
-  port: 8050
